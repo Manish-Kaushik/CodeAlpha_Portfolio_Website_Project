@@ -46,8 +46,8 @@ h3 {
 }
 
 .Intro {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-   background-image:url(laptop.jpg);
+/*   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+   background-image:url(laptop.jpg); */
   background-size: cover;
   display: flex;
   align-items: center;
